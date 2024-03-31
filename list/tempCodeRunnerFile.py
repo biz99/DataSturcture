@@ -1,0 +1,1 @@
+self.__numItems = 0
